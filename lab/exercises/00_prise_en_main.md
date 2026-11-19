@@ -147,13 +147,13 @@ Retenez ce résultat, il sera expliqué dans l'exercice 4 !
 
 > 💬 **Votre réponse :**
 >
-> _Remplacez ce texte par votre réponse._
+> en regardant le hostname 
 
 **Question 3.** Le client a l'adresse `172.20.1.50` et le site web `172.20.0.10`. Ces deux machines sont-elles sur le même réseau ? Quelle machine se trouve « entre » les deux ?
 
 > 💬 **Votre réponse :**
 >
-> _Remplacez ce texte par votre réponse._
+> NON
 
 ---
 
